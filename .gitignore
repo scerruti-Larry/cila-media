@@ -1,0 +1,10 @@
+.DS_Store
+*.psd
+*.ai
+*.sketch
+*.fig
+*.tmp
+*.bak
+.idea/
+.vscode/
+node_modules/
